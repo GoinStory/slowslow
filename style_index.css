@@ -1,0 +1,53 @@
+h1 {
+ display: none;
+}
+a{
+ text-decoration: none;
+}
+#cc {
+ font-family:굴림;
+ font-size: 4vmax;
+ text-align:center;
+ color:green;
+ margin:1%;
+ padding:1%;
+}
+#grid {
+ text-decoration-line: none;
+ display:grid;
+ grid-template-columns: 30% 20% 1fr;
+ border-bottom:1px solid black;
+ margin: 3%;
+}
+#left {
+ text-align:center;
+ margin: 5%;
+ padding: 5%; 
+}
+#for {
+ width: 80%;
+}
+#center {
+ border-left:1px solid black;
+ border-right:1px solid black;
+ font-size: 1.6vmax;
+ font-weight: bold;
+ color:gray;
+ line-height: 180%;
+ list-style-type: none;
+ margin:5%;
+ padding:5%;
+}
+#right {
+ font-size: 1.3vmax;
+ font-weight: bold;
+ line-height: 150%;
+ margin: 1.5%;
+ padding: 1.5%;
+}
+#bottom {
+ font-size: 1.6vmax;
+ text-align:center;
+ padding-left: 5%;
+ padding-right: 5%;
+} 
